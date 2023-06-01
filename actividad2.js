@@ -17,4 +17,4 @@ let act2 = {
     ]
   };
 
-  let json1 = JSON.stringify(act2);
+  let json2 = JSON.stringify(act2);

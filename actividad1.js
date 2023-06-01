@@ -24,6 +24,6 @@ let act1 = {
     telefonos: ["156734756", "154456234"]
   };
 
-let json2 = JSON.stringify(act1);
+let json1 = JSON.stringify(act1);
 
 
